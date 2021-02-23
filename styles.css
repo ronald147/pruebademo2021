@@ -5,6 +5,8 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* iniciando con estilos */
 body{
     height: 100vh;
     background: linear-gradient(
